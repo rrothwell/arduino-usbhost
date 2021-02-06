@@ -17,7 +17,7 @@ The Arduino USB host shields under consideration include:
 
 ### Circuits at Home
 
-![Circuits at Home USB host shield]("circuits at home.jpg")
+![Circuits at Home USB host shield](circuitsathome.jpg)
 
 ### Sparkfun
 
