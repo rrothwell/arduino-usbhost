@@ -5,8 +5,8 @@
 To define the capabilities of USB host boards with a view to 
 developing applications for retrocomputing and data acquisition.
 
-The first application will be tp provide a USB keyboard interface
-to an Apple II+ bare board purchased on e3Bay.
+The first application will be to provide a USB keyboard interface
+to an Apple II+ bare board purchased on eBay.
 
 ## Scope
 
